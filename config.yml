@@ -1,4 +1,4 @@
-baseURL: "https://soba-torinanban.github.io/"
+baseURL: "https://torinanban-soba.github.io/"
 canonifyurls: false
 title: Soba Torinanban
 paginate: 5
@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "/img/myicon.png"
 
   label:
-    text: "soba-torinanban.github.io"
+    text: "torinanban-soba.github.io"
     #icon: /.png
     #iconHeight: 35
 

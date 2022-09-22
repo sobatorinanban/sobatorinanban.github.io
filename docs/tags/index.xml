@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Soba Torinanban</title>
-    <link>https://soba-torinanban.github.io/tags/</link>
+    <link>https://torinanban-soba.github.io/tags/</link>
     <description>Recent content in Tags on Soba Torinanban</description>
     <image>
-      <url>https://soba-torinanban.github.io/img/myicon.png</url>
-      <link>https://soba-torinanban.github.io/img/myicon.png</link>
+      <url>https://torinanban-soba.github.io/img/myicon.png</url>
+      <link>https://torinanban-soba.github.io/img/myicon.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 22 Sep 2022 19:06:40 +0900</lastBuildDate><atom:link href="https://soba-torinanban.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Sep 2022 19:06:40 +0900</lastBuildDate><atom:link href="https://torinanban-soba.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>diary</title>
-      <link>https://soba-torinanban.github.io/tags/diary/</link>
+      <link>https://torinanban-soba.github.io/tags/diary/</link>
       <pubDate>Thu, 22 Sep 2022 19:06:40 +0900</pubDate>
       
-      <guid>https://soba-torinanban.github.io/tags/diary/</guid>
+      <guid>https://torinanban-soba.github.io/tags/diary/</guid>
       <description></description>
     </item>
     
