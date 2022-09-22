@@ -97,7 +97,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/torinanban-soba.github.io/content"
+    URL: "https://github.com/torinanban-soba/torinanban-soba.github.io/commits/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 

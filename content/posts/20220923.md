@@ -32,7 +32,7 @@ cover:
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/soba-torinanban/content"
+    URL: "https://github.com/torinanban-soba/torinanban-soba.github.io/commits/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
