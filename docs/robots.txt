@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://soba-torinanban.github.io/sitemap.xml
