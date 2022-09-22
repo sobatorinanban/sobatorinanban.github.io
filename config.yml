@@ -1,5 +1,5 @@
 baseURL: "https://torinanban-soba.github.io/"
-canonifyurls: false
+canonifyurls: true
 title: Soba Torinanban
 paginate: 5
 theme: PaperMod
