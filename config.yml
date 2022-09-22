@@ -50,7 +50,8 @@ params:
     favicon32x32: "/img/myicon.png"
     apple_touch_icon: "/img/myicon.png"
     safari_pinned_tab: "/img/myicon.png"
-
+    disableFingerprinting: true
+    
   label:
     text: "torinanban-soba.github.io"
     #icon: /.png
