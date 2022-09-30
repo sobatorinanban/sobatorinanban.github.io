@@ -1,5 +1,6 @@
 ---
 title: "title"
+slug: title
 date: {{ .Date }}
 # weight: 1
 # aliases: ["/first"]

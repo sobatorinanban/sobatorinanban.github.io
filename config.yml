@@ -140,4 +140,4 @@ markup:
     # lineNos: true
     # style: monokai
 permalinks:
-  posts: /posts/:year/:month/:title/
+  posts: /posts/:year/:month/:day/:slug/
