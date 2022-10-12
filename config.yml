@@ -1,4 +1,4 @@
-baseURL: "https://torinanban-soba.github.io/"
+baseURL: "https://sobatorinanban.github.io/"
 canonifyurls: true
 title: Soba Torinanban
 paginate: 5
@@ -53,7 +53,7 @@ params:
     disableFingerprinting: true
     
   label:
-    text: "torinanban-soba.github.io"
+    text: "sobatorinanban.github.io"
     #icon: /.png
     #iconHeight: 35
 
@@ -81,7 +81,7 @@ params:
     #- name: stackoverflow
     #  url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/torinanban-soba"
+      url: "https://github.com/sobatorinanban"
 
 #  analytics:
 #    google:
@@ -97,7 +97,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/torinanban-soba/torinanban-soba.github.io/commits/main/content"
+    URL: "https://github.com/sobatorinanban/sobatorinanban.github.io/commits/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
