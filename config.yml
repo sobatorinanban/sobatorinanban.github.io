@@ -1,8 +1,8 @@
 baseURL: "https://sobatorinanban.github.io/"
 canonifyurls: true
-title: Soba Torinanban
+title: "sobatorinanban.github.io"
 paginate: 5
-theme: PaperMod
+theme: "hugo-astatine-theme"
 publishDir: "docs"
 
 enableRobotsTXT: true
@@ -14,17 +14,24 @@ minify:
   disableXML: true
   minifyOutput: true
 
+preserveTaxonomyNames: true
+
 params:
   # env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: 鶏南蛮そば
   description: "Portfolio and blog of me, Soba Torinanban, a student of Computer Science."
-  keywords: [Blog, Portfolio, PaperMod, ]
-  author: Soba Torinanban
+  keywords: [Blog, Portfolio, PaperMod, Computer Science, Student, Engineer]
+  authorName: "Soba Torinanban"
+  author: "Soba Torinanban"
+  twitter:
+    name: "@soba_torinanban"
   # author: ["Me", "You"] # multiple authors
-  images: ["/img/myicon.png"]
+  imgname: 
+    name: "/img/main.jpg"
+    alt: "Profile picture" 
   DateFormat: "January 2, 2006"
-  defaultTheme: dark # dark, light
-  disableThemeToggle: false
+  defaultTheme: light # dark, light
+  disableThemeToggle: true
 
   ShowReadingTime: true
   ShowShareButtons: true
@@ -42,6 +49,9 @@ params:
   showtoc: false
   tocopen: false
 
+  # #austatine
+  # blogrss: true
+
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
@@ -58,17 +68,17 @@ params:
     #iconHeight: 35
 
   # profile-mode
-  profileMode:
-    enabled: true # needs to be explicitly set
-    title: 鶏南蛮そば
-    subtitle: "I'm a college student of Computer Science."
-    imageUrl: "/img/myicon.png"
-    imageWidth: 120  #120
-    imageHeight: 120 #120
-    imageTitle: my icon
-    buttons:
-      - name: Archives
-        url: /archives/
+  # profileMode:
+  #   enabled: true # needs to be explicitly set
+  #   title: 鶏南蛮そば
+  #   subtitle: "I'm a college student of Computer Science."
+  #   imageUrl: "/img/myicon.png"
+  #   imageWidth: 120  #120
+  #   imageHeight: 120 #120
+  #   imageTitle: my icon
+  #   buttons:
+  #     - name: Archives
+  #       url: /archives/
 
   # home-info mode
   #homeInfoParams:
@@ -115,11 +125,11 @@ menu:
   main:
     - identifier: about
       name: About
-      url: about
+      url: /about/
       weight: 5
     - identifier: posts
-      name: Blog
-      url: posts
+      name: Posts
+      url: /posts/
       weight: 10
     - identifier: tags
       name: Tags
@@ -139,5 +149,11 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+pygmentsCodefences: true
+pygmentsStyle: "native"
+#austatine
+taxonomies:
+  category: "categories"
+  tag: "tags"
 permalinks:
   posts: /posts/:year/:month/:day/:slug/

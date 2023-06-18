@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>todo on Soba Torinanban</title>
+    <title>todo on sobatorinanban.github.io</title>
     <link>https://sobatorinanban.github.io/tags/todo/</link>
-    <description>Recent content in todo on Soba Torinanban</description>
-    <image>
-      <url>https://sobatorinanban.github.io/img/myicon.png</url>
-      <link>https://sobatorinanban.github.io/img/myicon.png</link>
-    </image>
+    <description>Recent content in todo on sobatorinanban.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 01 Oct 2022 01:31:30 +0900</lastBuildDate><atom:link href="https://sobatorinanban.github.io/tags/todo/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -16,7 +12,13 @@
       <pubDate>Sat, 01 Oct 2022 01:31:30 +0900</pubDate>
       
       <guid>https://sobatorinanban.github.io/posts/2022/10/01/my-recent-news-realization-and-reflection/</guid>
-      <description>My recent news, realization and reflection.</description>
+      <description>近況 もう10月ということで、大学も後期 (弊学は2学期制です) の講義が始まっております。といっても今までと変わらずアルバイトしたりインターンに参加したりしつつ、生きてます。ここ数日は朝夜が肌寒く感じる一方、昼間がわりと暑かったりするので体調管理には気をつけたいところです。
+先日昔からの友人と秋葉原を散策しました。その友人伝いで新たな出会いもあったりと、中々良かったです。夏休みのハイライトといえばこれくらいでしょうか。
+気づきと反省 さて、最近私の身の回りにはインターンやハッカソンに参加してきた人間が多く、こんな感じだったよ～という話をよく聞きます。基本的に私は優秀な人間ではないため、みんな凄いなあと思っているわけなのですが、その話の中で気づきがあったり自分の行動に当てはめて反省することがよくあります。ここでは最近の気づきと反省をいくつか紹介しようと思います。
+質問をするときは一旦ノートに書き出して整理しておこう 事前に質問の内容を決めておくものの、脳内で考えているだけでは実際に質問をしようと思ったときにごちゃごちゃしてしまいがちではないでしょうか。本当に基本的なことですが割とこういうムーヴをしているかもしれないと反省しました。自分の疑問に思っていることを一旦ノートに書き出し整理するのは、やはり良さそうだなと改めて思いました。
+順序立てずに長々と意見を述べるのは避けよう 気を抜くと本当にこういう話し方をしてしまいがちなので、シンプルに反省しました。何事も順序立てろとは思いませんが、最低限相手を思いやるコミュニケーションを意識したいです。
+グループでディスカッションするときは最低でも進行役と書記は明確に決めておこう この間なんとなくふわっとした進行役がいて、誰かが書記をしているというグループワークをしてしまい、無事崩壊したのでこれは間違いなく必要だと思われます。
+全て本当に基本的なことでしたが、改めて意識していこうと思った次第です。それでは。</description>
     </item>
     
   </channel>
