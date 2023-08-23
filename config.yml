@@ -20,7 +20,7 @@ params:
   # env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: 鶏南蛮そば
   description: "Portfolio and blog of me, Soba Torinanban, a student of Computer Science."
-  keywords: [Blog, Portfolio, PaperMod, Computer Science, Student, Engineer]
+  keywords: [Blog, Portfolio, Computer Science, Student, Engineer]
   authorName: "Soba Torinanban"
   author: "Soba Torinanban"
   twitter:
@@ -149,6 +149,9 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
 pygmentsCodefences: true
 pygmentsStyle: "native"
 #austatine

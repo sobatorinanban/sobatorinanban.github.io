@@ -74,31 +74,41 @@ publications:
 #     # A description for the paper.
 #     description: The radioactive element astatine exists only in trace amounts in nature. Its properties can therefore only be explored by study of the minute quantities of artificially produced isotopes or by performing theoretical calculations. One of the most important properties influencing the chemical behaviour is the energy required to remove one electron from the valence shell, referred to as the ionization potential.
 ---
+<div class="head container grid sm:grid-cols-2 grid-cols-1 justify-around flex-wrap items-center">
+<p></p>
+<div class="mx-4 ml-8 basis-60 grow shrink-2 leading-snug text-base">
+GitHub : <a href="https://github.com/sobatorinanban">sobatorinanban</a> <br>
+Twitter : <a href="https://twitter.com/soba_torinanban">@soba_torinanban</a> <br>
+Qiita : <a href="https://qiita.com/soba_torinanban">@soba_torinanban</a>
+</div>
+</div>
+
 
 <!-- # Bio -->
+---
+## Bio
 I am a Computer Science student. I belong [Network Computing Laboratory](https://blog.nclteu.org) of Tokyo University of Technology. I'm interested in Distributed Computing and Networking.   
-Torinanban-soba is a tasty Japanese Soba Noodle with chicken and green onion. If you have a chance, you should try it :)
 
 鶏南蛮そばと申します. ハンドルネームです.   
 コンピューターサイエンスを専攻していて, 分散コンピューティングやネットワークに興味があります.   
 所属研究室は[ネットワークコンピューティング研究室](https://blog.nclteu.org)です.
 
-# Education
+#### Education
 - Bachelor of Computer Science
   - School of Computer Science, Tokyo University of Technology
   - Apr 2020 - current
 
-# Interest
+#### Interest
 - Distributed computing
   - ICN/CCN (Information/Content Centric Networking)  
   - P2P, IPFS, Grid Computing
 - Operating System
-  - Linux
-  - Haiku OS
+  - Linux, Haiku OS
+- UNIX Philosophy
 - Secure communication   
 - Web programming  
 
-# Skills
+#### Skills
 - Programming Languages   
   - C, Java, Python, Dart, JavaScript, ShellScript
 - Software Development   
@@ -108,15 +118,12 @@ Torinanban-soba is a tasty Japanese Soba Noodle with chicken and green onion. If
   - Infrastructure as Code (IaC)
   - Container Virtualization
 
-# Works
+#### Works
 - 静的サイトをIPFSへDeployするGitOps等の構築   
   [研究室のサイトをIPFSで公開してみた | Network Computing Lab](https://blog.nclteu.org/posts/2023/04/17/about-this-site/)
 
-# Links, Contacts and SNS
-- Lab site [en, ja] : [Network Computing Laboratory](https://blog.nclteu.org)
-- GitHub : [sobatorinanban](https://github.com/sobatorinanban)
-- Twitter [ja] : [@soba_torinanban](https://twitter.com/soba_torinanban)
-- Qiita [ja] : [@soba_torinanban](https://qiita.com/soba_torinanban)
+---
+
 <!-- I am a chemical element with the symbol At and atomic number 85. I am 
 the rarest naturally occurring element in the Earth's crust, occurring only as
 the decay product of various heavier elements. All of my isotopes are
@@ -124,3 +131,6 @@ short-lived; the most stable is astatine-210, with a half-life of 8.1 hours.
 
 A pure sample of myself has never been assembled, because any macroscopic
 specimen would be immediately vaporized by the heat of its own radioactivity. -->
+
+## Publications (Non-refereed)
+- **新部 裕樹**，金光 永煥: [ICNによるワークフロー処理における要求送信順序の一考察](https://ken.ieice.org/ken/paper/20230727cCvE/)，信学技報, vol. 123, no. 137, CS2023-35, pp. 61-63, 2023年7月.
