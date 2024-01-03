@@ -77,9 +77,9 @@ publications:
 <div class="head container grid sm:grid-cols-2 grid-cols-1 justify-around flex-wrap items-center">
 <p></p>
 <div class="mx-4 ml-8 basis-60 grow shrink-2 leading-snug text-base">
-GitHub : <a href="https://github.com/sobatorinanban">sobatorinanban</a> <br>
-Twitter : <a href="https://twitter.com/soba_torinanban">@soba_torinanban</a> <br>
-Qiita : <a href="https://qiita.com/soba_torinanban">@soba_torinanban</a>
+GitHub : <a href="https://github.com/sobatorinanban" rel="me">sobatorinanban</a> <br>
+Twitter : <a href="https://twitter.com/soba_torinanban" rel="me">@soba_torinanban</a> <br>
+Qiita : <a href="https://qiita.com/soba_torinanban" rel="me">@soba_torinanban</a>
 </div>
 </div>
 
