@@ -87,20 +87,21 @@ Qiita : <a href="https://qiita.com/soba_torinanban" rel="me">@soba_torinanban</a
 <!-- # Bio -->
 ---
 ## Bio
-I am a Computer Science student. I belong [Network Computing Laboratory](https://blog.nclteu.org) of Tokyo University of Technology. I'm interested in Distributed Computing and Networking.   
+I am a Computer Science student. I belong [Network Computing Laboratory](https://blog.nclteu.org). I'm interested in Distributed Computing and Networking.   
 
-鶏南蛮そばと申します. ハンドルネームです.   
+鶏南蛮そば (ハンドルネーム) と申します.  
 コンピューターサイエンスを専攻していて, 分散コンピューティングやネットワークに興味があります.   
 所属研究室は[ネットワークコンピューティング研究室](https://blog.nclteu.org)です.
 
 #### Education
 - Bachelor of Computer Science
   - School of Computer Science, Tokyo University of Technology
-  - Apr 2020 - current
+  - April 2020 - March 2024
 
-#### Interest
-- Distributed computing
+#### Interests
+- Distributed Computing, Network
   - ICN/CCN (Information/Content Centric Networking)  
+  - Network Virtualization, In-Network Computing
   - P2P, IPFS, Grid Computing
 - Operating System
   - Linux, Haiku OS
@@ -113,7 +114,7 @@ I am a Computer Science student. I belong [Network Computing Laboratory](https:/
   - C, Java, Python, Dart, JavaScript, ShellScript
 - Software Development   
   - Web App (Flutter Web, React, etc)
-  - Native App (Flutter, React Native)
+  - Android App (Flutter)
 - IT Infrastructure Operation   
   - Infrastructure as Code (IaC)
   - Container Virtualization
