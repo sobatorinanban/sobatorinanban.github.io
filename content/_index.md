@@ -15,14 +15,14 @@ imgname:
 #     type: $IMAGE_TYPE
 # ...
 # A title (job title or "Researcher", "PhD student", etc.)
-personal_title: "Undergrad student"
+personal_title: "Graduate student"
 # An address (you can list multiple)
 address: 
   - 
     # name: Everywhere
     # street: Nowhere
     # postal_code: "000000"
-    locality: Hachioji City, Tokyo
+    locality: Ibaraki City, Osaka
 
 # === Optional fields ===
 # Add an email with a mailto: hyperlink
@@ -87,16 +87,20 @@ Qiita : <a href="https://qiita.com/soba_torinanban" rel="me">@soba_torinanban</a
 <!-- # Bio -->
 ---
 ## Bio
-I am a Computer Science student. I belong [Network Computing Laboratory](https://blog.nclteu.org). I'm interested in Distributed Computing and Networking.   
+I am a Computer Science student. I'm interested in Distributed Computing and Networking.   
 
 鶏南蛮そば (ハンドルネーム) と申します.  
 コンピューターサイエンスを専攻していて, 分散コンピューティングやネットワークに興味があります.   
-所属研究室は[ネットワークコンピューティング研究室](https://blog.nclteu.org)です.
+
 
 #### Education
-- Bachelor of Computer Science
-  - School of Computer Science, Tokyo University of Technology
-  - April 2020 - March 2024
+- Bachelor of Computer Science  
+  School of Computer Science, Tokyo University of Technology  
+  April 2020 - March 2024  
+
+- Master's degree program in Engineering  
+  Graduate School of Information Science and Engineering, Ritsumeikan University  
+  April 2024 -   
 
 #### Interests
 - Distributed Computing, Network
@@ -119,9 +123,13 @@ I am a Computer Science student. I belong [Network Computing Laboratory](https:/
   - Infrastructure as Code (IaC)
   - Container Virtualization
 
+#### Extracurricular Activities  
+- 伊藤忠テクノソリューションズ [スマホでグリッドプロジェクト](https://www.ctc-g.co.jp/company/release/20211006-01355.html) インターン(共同研究)  
+  July 2022 - April 2024  
+
 #### Works
 - 静的サイトをIPFSへDeployするGitOps等の構築   
-  [研究室のサイトをIPFSで公開してみた | Network Computing Lab](https://blog.nclteu.org/posts/2023/04/17/about-this-site/)
+  [研究室のサイトをIPFSで公開してみた | Network Computing Lab](https://blog.nclteu.org/posts/2023/04/17/about-this-site/)  
 
 ---
 
