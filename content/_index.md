@@ -87,10 +87,11 @@ Qiita : <a href="https://qiita.com/soba_torinanban" rel="me">@soba_torinanban</a
 <!-- # Bio -->
 ---
 ## Bio
-I am a Computer Science student. I'm interested in Distributed Computing and Networking.   
+I am a Computer Science student. I belong [Advanced Network Laboratory](https://www.anl.is.ritsumei.ac.jp/). I'm interested in Distributed Computing and Networking.   
 
 鶏南蛮そば (ハンドルネーム) と申します.  
 コンピューターサイエンスを専攻していて, 分散コンピューティングやネットワークに興味があります.   
+所属研究室は[先進ネットワーク研究室](https://www.anl.is.ritsumei.ac.jp/)です．  
 
 
 #### Education

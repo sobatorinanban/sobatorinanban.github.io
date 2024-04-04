@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on sobatorinanban.github.io</title>
-    <link>https://sobatorinanban.github.io/categories/</link>
-    <description>Recent content in Categories on sobatorinanban.github.io</description>
+    <title>Categories on sobatorinanban.party</title>
+    <link>https://www.sobatorinanban.party/categories/</link>
+    <description>Recent content in Categories on sobatorinanban.party</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 19 Mar 2024 19:53:10 +0900</lastBuildDate><atom:link href="https://sobatorinanban.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Mar 2024 19:53:10 +0900</lastBuildDate><atom:link href="https://www.sobatorinanban.party/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>https://sobatorinanban.github.io/categories/blog/</link>
+      <link>https://www.sobatorinanban.party/categories/blog/</link>
       <pubDate>Tue, 19 Mar 2024 19:53:10 +0900</pubDate>
       
-      <guid>https://sobatorinanban.github.io/categories/blog/</guid>
+      <guid>https://www.sobatorinanban.party/categories/blog/</guid>
       <description></description>
     </item>
     

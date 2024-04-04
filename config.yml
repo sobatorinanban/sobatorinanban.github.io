@@ -1,6 +1,6 @@
-baseURL: "https://sobatorinanban.github.io/"
+baseURL: "https://www.sobatorinanban.party/"
 canonifyurls: true
-title: "sobatorinanban.github.io"
+title: "sobatorinanban.party"
 paginate: 5
 theme: "hugo-astatine-theme"
 publishDir: "docs"
@@ -160,3 +160,7 @@ taxonomies:
   tag: "tags"
 permalinks:
   posts: /posts/:year/:month/:day/:slug/
+
+
+ignoreErrors:
+  ["error-remote-getjson"] 

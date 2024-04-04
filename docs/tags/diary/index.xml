@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>diary on sobatorinanban.github.io</title>
-    <link>https://sobatorinanban.github.io/tags/diary/</link>
-    <description>Recent content in diary on sobatorinanban.github.io</description>
+    <title>diary on sobatorinanban.party</title>
+    <link>https://www.sobatorinanban.party/tags/diary/</link>
+    <description>Recent content in diary on sobatorinanban.party</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 19 Mar 2024 19:53:10 +0900</lastBuildDate><atom:link href="https://sobatorinanban.github.io/tags/diary/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Mar 2024 19:53:10 +0900</lastBuildDate><atom:link href="https://www.sobatorinanban.party/tags/diary/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>大学を卒業しました</title>
-      <link>https://sobatorinanban.github.io/posts/2024/03/19/my-recent-news-graduate-from-university/</link>
+      <link>https://www.sobatorinanban.party/posts/2024/03/19/my-recent-news-graduate-from-university/</link>
       <pubDate>Tue, 19 Mar 2024 19:53:10 +0900</pubDate>
       
-      <guid>https://sobatorinanban.github.io/posts/2024/03/19/my-recent-news-graduate-from-university/</guid>
+      <guid>https://www.sobatorinanban.party/posts/2024/03/19/my-recent-news-graduate-from-university/</guid>
       <description>本日2024年3月19日に，4年間通った大学を卒業しました．
 色々と振り返りつつ，大学院進学，今後のことについて書いてみようと思います．
 Looking back on my University experience 思い返せばコロナ禍での入学となり，ヌルっとオンラインから始まった大学生活でしたが，大変充実したものとなりました．
@@ -31,10 +31,10 @@ Looking back on my University experience 思い返せばコロナ禍での入学
     
     <item>
       <title>新年のご挨拶</title>
-      <link>https://sobatorinanban.github.io/posts/2024/01/04/happy-new-year-2024/</link>
+      <link>https://www.sobatorinanban.party/posts/2024/01/04/happy-new-year-2024/</link>
       <pubDate>Thu, 04 Jan 2024 00:52:38 +0900</pubDate>
       
-      <guid>https://sobatorinanban.github.io/posts/2024/01/04/happy-new-year-2024/</guid>
+      <guid>https://www.sobatorinanban.party/posts/2024/01/04/happy-new-year-2024/</guid>
       <description>Happy New Year, 2024 新年あけましておめでとうございます．
 昨年は色々と忙しく，ブログを更新したいと言いつつも全くできませんでした．今年こそはゆるく更新できたらなと思います．
 Looking back on Last Year 昨年を少し振り返ってみたいと思います．
@@ -49,10 +49,10 @@ New Year&amp;rsquo;s resolutions 勉強がんばる 研究がんばる これに
     
     <item>
       <title>新年のご挨拶と雑記</title>
-      <link>https://sobatorinanban.github.io/posts/2023/01/04/happy-new-year-2023/</link>
+      <link>https://www.sobatorinanban.party/posts/2023/01/04/happy-new-year-2023/</link>
       <pubDate>Wed, 04 Jan 2023 02:01:17 +0900</pubDate>
       
-      <guid>https://sobatorinanban.github.io/posts/2023/01/04/happy-new-year-2023/</guid>
+      <guid>https://www.sobatorinanban.party/posts/2023/01/04/happy-new-year-2023/</guid>
       <description>Happy New Year, 2023 新年あけましておめでとうございます。 昨年はこの個人サイトもどきを作ったにも関わらず、あまり更新できてませんでしたね&amp;hellip;。今年は日記等も更新しつつ、それ以外の記事も書いていけたらなと思います (当初の目的が技術メモとかでしたので) 。
 New Year&amp;rsquo;s resolutions 今年の目標をリストにしてみようと思います。
 研究をがんばる・研究室生活を充実させる 私は現在B3ですが、来年度からはB4として研究活動が始まる予定です。個人的にかなり興味のあることを研究テーマにできそうなので、がんばりたいところです。それに合わせて研究室での生活も充実させていきたいです。というわけで、研究室生活を充実させるために重要なのではないかと考えることが2つあります。それはコミュニケーションと場の雰囲気です。最近感じたこととして、コミュニティの中に一人でも明るくて活発な人がいると雰囲気って変わってくるなあ、ということがあります。私も大変に活発かと言われるとそうではないので分かるのですが、この人とだったら楽に話せる！みたいな存在は、そのコミュニティにどれだけ気持ちが前向きになれるかを左右するのではないでしょうか。今年は受け身でいるだけでなく，以前に増して積極的にコミュニケーションを取るように心がけたいです。
@@ -60,18 +60,16 @@ New Year&amp;rsquo;s resolutions 今年の目標をリストにしてみよう�
 英語がんばる これに関しては勉強と練習あるのみだと考えているので、今年こそは英語を使うことに積極的になっていきたいです。
 趣味の開発をぼちぼち進めていく 趣味で開発しているものがいくつかあります。しかしどれも進捗がない状態のまま放置してしまっているので、時間を見つけてゆっくり進めていきたいです。とりあえずの動作まではもっていきたいところですね！
 My recent news New PCを作るためにちょっと前から集めていたパーツですが、ここ数日でついに全て揃いました。お財布に余裕がないので基本的にジャンクパーツですが、後ほどこれについては記事を書きたいと思っています！
-最近キーボードの沼にハマっています。 My new gear...
-キーボードを買いました pic.twitter.com/6q9LsCLWS2
-&amp;mdash; 鶏南蛮そば (@soba_torinanban) December 4, 2022 とりあえず1台買って改造などして使っているのですが、今度は分割キーボードが欲しくなってしまい&amp;hellip; 弊学にはやばいキーボードのオタクが集まっている研究室があるとの噂なので、いつか遊びにいきたいです。
+最近キーボードの沼にハマっています。 とりあえず1台買って改造などして使っているのですが、今度は分割キーボードが欲しくなってしまい&amp;hellip; 弊学にはやばいキーボードのオタクが集まっている研究室があるとの噂なので、いつか遊びにいきたいです。
 最後に 久々の更新で色々書きましたが、今年もよろしくお願いいたします。それでは。</description>
     </item>
     
     <item>
       <title>近況, 気づきと反省</title>
-      <link>https://sobatorinanban.github.io/posts/2022/10/01/my-recent-news-realization-and-reflection/</link>
+      <link>https://www.sobatorinanban.party/posts/2022/10/01/my-recent-news-realization-and-reflection/</link>
       <pubDate>Sat, 01 Oct 2022 01:31:30 +0900</pubDate>
       
-      <guid>https://sobatorinanban.github.io/posts/2022/10/01/my-recent-news-realization-and-reflection/</guid>
+      <guid>https://www.sobatorinanban.party/posts/2022/10/01/my-recent-news-realization-and-reflection/</guid>
       <description>My recent news もう10月ということで、大学も後期 (弊学は2学期制です) の講義が始まっております。といっても今までと変わらずアルバイトしたりインターンに参加したりしつつ、生きてます。ここ数日は朝夜が肌寒く感じる一方、昼間がわりと暑かったりするので体調管理には気をつけたいところです。
 先日昔からの友人と秋葉原を散策しました。その友人伝いで新たな出会いもあったりと、中々良かったです。夏休みのハイライトといえばこれくらいでしょうか。
 気づきと反省 最近私の身の回りにはインターンやハッカソンに参加してきた人が多くおり、こんな感じだったよ、という話をよく聞きます。私はあまり優秀な人間ではないため、みんな凄いなあと思っているのですが、その中で気づきがあったり、過去の自分の行動に当てはめて反省することがよくあります。ここではそれらをいくつか紹介しようと思います。
@@ -83,10 +81,10 @@ My recent news New PCを作るためにちょっと前から集めていたパ�
     
     <item>
       <title>初めまして</title>
-      <link>https://sobatorinanban.github.io/posts/2022/09/22/hello-world/</link>
+      <link>https://www.sobatorinanban.party/posts/2022/09/22/hello-world/</link>
       <pubDate>Thu, 22 Sep 2022 19:06:40 +0900</pubDate>
       
-      <guid>https://sobatorinanban.github.io/posts/2022/09/22/hello-world/</guid>
+      <guid>https://www.sobatorinanban.party/posts/2022/09/22/hello-world/</guid>
       <description>Hi, 初めまして。鶏南蛮そば (Soba Torinanban) と申します。 現在大学生で、計算機科学を学んでいます。友人が良い感じのポートフォリオサイトとブログを作っていたので、感化されて自分も作ってみました。 とりあえずGitHub Pagesで簡易的にホスティングできれば良いなと思ったので、静的サイトジェネレータのHugoを使いました。初めて使ったのですが、とても便利ですね。テーマもたくさんあって悩みました。自作するのも良さそうだと思ったのですが、素敵なテーマがあったので使わせていただいてます。
 Hereafter このブログには、技術メモ的なものを中心に書いていこうと思います。時々日記も書くかもしれません。
 よろしくお願いします。それでは。</description>
