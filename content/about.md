@@ -7,8 +7,8 @@ date: 2022-09-23T02:01:17+09:00
 Here you can find my [Portfolio]({{< ref "/" >}}) and [Blog]({{< ref "/posts/" >}}).  
 This site is created by using hugo (static site generator), hugo-astatine-theme(a hugo theme) and GitHub Pages.
 
-ここには私の[ポートフォリオ]({{< ref "/" >}})のようなものと[ブログ]({{< ref "/posts/" >}})を載せています。緩く更新していく予定です.   
-このサイトは静的サイトジェネレーターのHugoとそのテーマであるAstatineで作成し, GitHub Pagesでホストしています.
+ここには私の[ポートフォリオ]({{< ref "/" >}})のようなものと[ブログ]({{< ref "/posts/" >}})を載せています． 
+このサイトは静的サイトジェネレータの[Hugo](https://gohugo.io/)とテーマの[Astatine](https://github.com/hugcis/hugo-astatine-theme)で作成し，GitHub Pagesでホストしています．
 
 # Mutual links
 These Mutual links are [XFN Friendly](http://gmpg.org/xfn).  
