@@ -4,25 +4,23 @@
     <title>Tags on sobatorinanban.party</title>
     <link>https://www.sobatorinanban.party/tags/</link>
     <description>Recent content in Tags on sobatorinanban.party</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 19 Mar 2024 19:53:10 +0900</lastBuildDate><atom:link href="https://www.sobatorinanban.party/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Mar 2024 19:53:10 +0900</lastBuildDate>
+    <atom:link href="https://www.sobatorinanban.party/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>diary</title>
+      <title>Diary</title>
       <link>https://www.sobatorinanban.party/tags/diary/</link>
-      <pubDate>Tue, 19 Mar 2024 19:53:10 +0900</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.sobatorinanban.party/tags/diary/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>todo</title>
+      <title>Todo</title>
       <link>https://www.sobatorinanban.party/tags/todo/</link>
-      <pubDate>Sat, 01 Oct 2022 01:31:30 +0900</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://www.sobatorinanban.party/tags/todo/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

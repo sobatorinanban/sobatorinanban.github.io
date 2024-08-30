@@ -97,7 +97,7 @@ I am a Computer Science student. I belong [Advanced Network Laboratory](https://
 #### Education
 - Master's degree program in Engineering  
   Graduate School of Information Science and Engineering, Ritsumeikan University  
-  April 2024 -  
+  April 2024 -  Present  
 
 - Bachelor of Computer Science  
   School of Computer Science, Tokyo University of Technology  
@@ -105,25 +105,25 @@ I am a Computer Science student. I belong [Advanced Network Laboratory](https://
 
 
 #### Interests
-- Distributed Computing, Network
-  - ICN/CCN (Information/Content Centric Networking)  
+- Distributed Computing and Networking
+  - ICN/CCN (Information Centric Networking)  
   - Network Virtualization, In-Network Computing, Service Function Chaining  
   - P2P, IPFS, Grid Computing  
-- Operating System
-  - Linux, Haiku OS
+- Operating System    
 - UNIX Philosophy
-- Secure communication   
-- Web programming  
+- Virtualization technology
+- Secure communication    
 
 #### Skills
 - Programming Languages   
   - C, Java, Python, Dart, JavaScript, ShellScript
-- Software Development   
-  - Web App (Flutter Web, React, etc)
-  - Android App (Flutter)
+- Development   
+  - Web App (Flutter Web, React, etc), Android App  
+  - Server side development (Node.js, etc)  
 - IT Infrastructure Operation   
-  - Infrastructure as Code (IaC)
-  - Container Virtualization
+  - Infrastructure as Code (IaC)  
+  - Container Virtualization  
+  - AWS
 
 #### Extracurricular Activities  
 - 伊藤忠テクノソリューションズ [スマホでグリッドプロジェクト](https://www.ctc-g.co.jp/company/release/20211006-01355.html) インターン(共同研究)  

@@ -1,25 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>todo on sobatorinanban.party</title>
+    <title>Todo on sobatorinanban.party</title>
     <link>https://www.sobatorinanban.party/tags/todo/</link>
-    <description>Recent content in todo on sobatorinanban.party</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 01 Oct 2022 01:31:30 +0900</lastBuildDate><atom:link href="https://www.sobatorinanban.party/tags/todo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in Todo on sobatorinanban.party</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Oct 2022 01:31:30 +0900</lastBuildDate>
+    <atom:link href="https://www.sobatorinanban.party/tags/todo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>近況, 気づきと反省</title>
       <link>https://www.sobatorinanban.party/posts/2022/10/01/my-recent-news-realization-and-reflection/</link>
       <pubDate>Sat, 01 Oct 2022 01:31:30 +0900</pubDate>
-      
       <guid>https://www.sobatorinanban.party/posts/2022/10/01/my-recent-news-realization-and-reflection/</guid>
-      <description>My recent news もう10月ということで、大学も後期 (弊学は2学期制です) の講義が始まっております。といっても今までと変わらずアルバイトしたりインターンに参加したりしつつ、生きてます。ここ数日は朝夜が肌寒く感じる一方、昼間がわりと暑かったりするので体調管理には気をつけたいところです。
-先日昔からの友人と秋葉原を散策しました。その友人伝いで新たな出会いもあったりと、中々良かったです。夏休みのハイライトといえばこれくらいでしょうか。
-気づきと反省 最近私の身の回りにはインターンやハッカソンに参加してきた人が多くおり、こんな感じだったよ、という話をよく聞きます。私はあまり優秀な人間ではないため、みんな凄いなあと思っているのですが、その中で気づきがあったり、過去の自分の行動に当てはめて反省することがよくあります。ここではそれらをいくつか紹介しようと思います。
-質問をするときは一旦ノートに書き出して整理しておこう 事前に質問の内容を決めておくはいいものの、脳内で考えているだけでは実際に質問をしようと思ったときにごちゃごちゃしてしまいがちではないでしょうか。整理するプロセスを挟むのはとても基本的なことですが、割とすっとばしているかもしれないと反省しました。自分の疑問に思っていることを一旦ノートに書き出すことは良さそうだなと、改めて思いました。
-順序立てずに長々と意見を述べるのは避けよう 気を抜くと本当にこういう話し方をしてしまいがちなので、シンプルに反省しました。何事も順序立てろとは思いませんが、最低限相手を思いやるコミュニケーションを意識したいです。
-グループでディスカッションするときは最低でも進行役と書記は明確に決めておこう 先日、なんとなくふわっとした進行役がおり、誰かが書記をしている、というグループワークをしてしまい、グループワークが無事崩壊したのでこれは間違いなく必要だと思います。気を付けます。
-全て本当に基本的なことでしたが、改めて意識していこうと思った次第です。それでは。</description>
+      <description>My recent news もう10月ということで、大学も後期 (弊学は2学期制です) の講義が始まっております。といっても今までと変わらずアルバイトしたりインターンに参加したりしつつ、生きてます。ここ数日は朝夜が肌寒く感じる一方、昼間がわりと暑かったりするので体調管理には気をつけたいところです。&#xA;先日昔からの友人と秋葉原を散策しました。その友人伝いで新たな出会いもあったりと、中々良かったです。夏休みのハイライトといえばこれくらいでしょうか。&#xA;気づきと反省 最近私の身の回りにはインターンやハッカソンに参加してきた人が多くおり、こんな感じだったよ、という話をよく聞きます。私はあまり優秀な人間ではないため、みんな凄いなあと思っているのですが、その中で気づきがあったり、過去の自分の行動に当てはめて反省することがよくあります。ここではそれらをいくつか紹介しようと思います。&#xA;質問をするときは一旦ノートに書き出して整理しておこう 事前に質問の内容を決めておくはいいものの、脳内で考えているだけでは実際に質問をしようと思ったときにごちゃごちゃしてしまいがちではないでしょうか。整理するプロセスを挟むのはとても基本的なことですが、割とすっとばしているかもしれないと反省しました。自分の疑問に思っていることを一旦ノートに書き出すことは良さそうだなと、改めて思いました。&#xA;順序立てずに長々と意見を述べるのは避けよう 気を抜くと本当にこういう話し方をしてしまいがちなので、シンプルに反省しました。何事も順序立てろとは思いませんが、最低限相手を思いやるコミュニケーションを意識したいです。&#xA;グループでディスカッションするときは最低でも進行役と書記は明確に決めておこう 先日、なんとなくふわっとした進行役がおり、誰かが書記をしている、というグループワークをしてしまい、グループワークが無事崩壊したのでこれは間違いなく必要だと思います。気を付けます。&#xA;全て本当に基本的なことでしたが、改めて意識していこうと思った次第です。それでは。</description>
     </item>
-    
   </channel>
 </rss>
