@@ -144,4 +144,5 @@ A pure sample of myself has never been assembled, because any macroscopic
 specimen would be immediately vaporized by the heat of its own radioactivity. -->
 
 ## Publications (Non-refereed)
-- **新部 裕樹**，金光 永煥: [ICNによるワークフロー処理における要求送信順序の一考察](https://ken.ieice.org/ken/paper/20230727cCvE/)，信学技報, vol. 123, no. 137, CS2023-35, pp. 61-63, 2023年7月.
+- **新部 裕樹**，金光 永煥: [ICNによるワークフロー処理における要求送信順序の一考察](https://ken.ieice.org/ken/paper/20230727cCvE/)，信学技報, vol. 123, no. 137, CS2023-35, pp. 61-63, 2023年7月.  
+- **新部 裕樹**, 上山 憲昭: [ICNを用いたネットワーク内処理における重複割当を回避したタスクスケジューリング](https://ken.ieice.org/ken/paper/202411123cGi/), 信学技報, vol. 124, no. 251, CCS2024-49, pp. 35-40, 2024年11月.
