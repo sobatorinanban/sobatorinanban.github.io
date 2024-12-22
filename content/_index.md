@@ -106,24 +106,22 @@ I am a Computer Science student. I belong [Advanced Network Laboratory](https://
 
 #### Interests
 - Distributed Computing and Networking
-  - ICN/CCN (Information Centric Networking)  
-  - Network Virtualization, In-Network Computing, Service Function Chaining  
-  - P2P, IPFS, Grid Computing  
-- Operating System    
-- UNIX Philosophy
-- Virtualization technology
-- Secure communication    
+  - ICN/CCN (Information Centric Networking), P2P (Overlay Network), IPFS  
+  - Network Virtualization, Service Function Chaining  
+  - In-Network Computing, Edge/Fog Computing, Grid Computing  
+- Operating System, UNIX Philosophy
+- Virtualization technology  
 
 #### Skills
 - Programming Languages   
-  - C, Java, Python, Dart, JavaScript, ShellScript
+  - C, Java, Python, Dart, JavaScript/TypeScript, etc  
 - Development   
-  - Web App (Flutter Web, React, etc), Android App  
-  - Server side development (Node.js, etc)  
+  - Web Front-end (Flutter, React, etc), Mobile App (Flutter, React Native, Kotlin)  
+  - Server-side (Node.js, etc)  
 - IT Infrastructure Operation   
-  - Infrastructure as Code (IaC)  
+  - Infrastructure as Code (IaC), CI/CD  
   - Container Virtualization  
-  - AWS
+  - AWS  
 
 #### Extracurricular Activities  
 - 伊藤忠テクノソリューションズ [スマホでグリッドプロジェクト](https://www.ctc-g.co.jp/company/release/20211006-01355.html) インターン(共同研究)  
@@ -145,4 +143,7 @@ specimen would be immediately vaporized by the heat of its own radioactivity. --
 
 ## Publications (Non-refereed)
 - **新部 裕樹**，金光 永煥: [ICNによるワークフロー処理における要求送信順序の一考察](https://ken.ieice.org/ken/paper/20230727cCvE/)，信学技報, vol. 123, no. 137, CS2023-35, pp. 61-63, 2023年7月.  
-- **新部 裕樹**, 上山 憲昭: [ICNを用いたネットワーク内処理における重複割当を回避したタスクスケジューリング](https://ken.ieice.org/ken/paper/202411123cGi/), 信学技報, vol. 124, no. 251, CCS2024-49, pp. 35-40, 2024年11月.
+- **新部 裕樹**, 上山 憲昭: [ICNを用いたネットワーク内処理における重複割当を回避したタスクスケジューリング](https://ken.ieice.org/ken/paper/202411123cGi/), 信学技報, vol. 124, no. 251, CCS2024-49, pp. 35-40, 2024年11月.  
+
+## Others  
+- [ICNを用いたネットワーク内処理における重複割当を回避したタスクスケジューリング](https://www.ieice.org/cs/icn/?page_id=2921), 第28回 ICN研究会, 2024年12月.  
