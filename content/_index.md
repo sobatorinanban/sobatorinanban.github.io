@@ -106,11 +106,10 @@ I am a Computer Science student. I belong [Advanced Network Laboratory](https://
 
 #### Interests
 - Distributed Computing and Networking
-  - ICN/CCN (Information Centric Networking), P2P (Overlay Network), IPFS  
-  - Network Virtualization, Service Function Chaining  
-  - In-Network Computing, Edge/Fog Computing, Grid Computing  
-- Operating System, UNIX Philosophy
-- Virtualization technology  
+  - In-Network Computing (Fog Computing, Multi-access Edge Computing(MEC), Edge Computing)  
+  - ICN (Information Centric Networking), P2P (Overlay Network), IPFS  
+  - Network Virtualization, Service Function Chaining   
+- Operating System, Virtualization technology, UNIX Philosophy  
 
 #### Skills
 - Programming Languages   
@@ -124,8 +123,12 @@ I am a Computer Science student. I belong [Advanced Network Laboratory](https://
   - AWS  
 
 #### Extracurricular Activities  
-- 伊藤忠テクノソリューションズ [スマホでグリッドプロジェクト](https://www.ctc-g.co.jp/company/release/20211006-01355.html) インターン(共同研究)  
+- ソニー株式会社 ネットワーク通信制御(R&D) インターンシップ  
+  February 2025  
+- 伊藤忠テクノソリューションズ株式会社 [スマホでグリッドプロジェクト(共同研究)](https://www.ctc-g.co.jp/company/release/20211006-01355.html) インターンシップ  
   July 2022 - March 2024  
+- Open Hack U 2020 ハッカソン  
+  March 2020  
 
 #### Works
 - 静的サイトをIPFSへDeployするGitOps等の構築   
@@ -142,8 +145,10 @@ A pure sample of myself has never been assembled, because any macroscopic
 specimen would be immediately vaporized by the heat of its own radioactivity. -->
 
 ## Publications (Non-refereed)
-- **新部 裕樹**，金光 永煥: [ICNによるワークフロー処理における要求送信順序の一考察](https://ken.ieice.org/ken/paper/20230727cCvE/)，信学技報, vol. 123, no. 137, CS2023-35, pp. 61-63, 2023年7月.  
+- **新部 裕樹**, 金光 永煥: [ICNによるワークフロー処理における要求送信順序の一考察](https://ken.ieice.org/ken/paper/20230727cCvE/)，信学技報, vol. 123, no. 137, CS2023-35, pp. 61-63, 2023年7月.  
 - **新部 裕樹**, 上山 憲昭: [ICNを用いたネットワーク内処理における重複割当を回避したタスクスケジューリング](https://ken.ieice.org/ken/paper/202411123cGi/), 信学技報, vol. 124, no. 251, CCS2024-49, pp. 35-40, 2024年11月.  
+- **新部 裕樹**, 上山 憲昭: [自律的なネットワーク内処理におけるワークフローのスケジューリングに関する性能評価](https://ken.ieice.org/ken/paper/202503052cir/), 信学技報, vol. 124, no. 393, IA2024-96, pp. 188-193, 2025年3月.  
+- **新部 裕樹**, 上山 憲昭: ICNを用いたIn-Network Computingのタスクスケジューリング, 電子情報通信学会2025年総合大会講演論文集, B-6-30, 2025年3月.  
 
 ## Others  
 - [ICNを用いたネットワーク内処理における重複割当を回避したタスクスケジューリング](https://www.ieice.org/cs/icn/?page_id=2921), 第28回 ICN研究会, 2024年12月.  
