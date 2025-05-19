@@ -52,8 +52,6 @@ params:
   # #austatine
   # blogrss: true
 
-  customCSS:
-    - href: css/custom.css
 
   assets:
     # disableHLJS: true # to disable highlight.js
