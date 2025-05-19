@@ -90,8 +90,9 @@ Qiita : <a href="https://qiita.com/soba_torinanban" rel="me">@soba_torinanban</a
 I am a Computer Science student. I belong [Advanced Network Laboratory](https://www.anl.is.ritsumei.ac.jp/). I'm interested in Distributed Computing and Networking.   
 
 鶏南蛮そば (ハンドルネーム) と申します.  
-コンピューターサイエンスを専攻していて, 分散コンピューティングやネットワークに興味があります.   
+コンピューターサイエンスを専攻していて, 分散コンピューティングやネットワーキングに興味があります.   
 所属研究室は[先進ネットワーク研究室](https://www.anl.is.ritsumei.ac.jp/)です．  
+<br>
 
 
 #### Education
@@ -102,37 +103,37 @@ I am a Computer Science student. I belong [Advanced Network Laboratory](https://
 - Bachelor of Computer Science  
   School of Computer Science, Tokyo University of Technology  
   April 2020 - March 2024  
-
+<br>
 
 #### Interests
 - Distributed Computing and Networking
   - In-Network Computing (Fog Computing, Multi-access Edge Computing(MEC), Edge Computing)  
-  - ICN (Information Centric Networking), P2P (Overlay Network), IPFS  
+  - ICN (Information Centric Networking), IPFS, P2P/Overlay Network  
   - Network Virtualization, Service Function Chaining   
 - Operating System, Virtualization technology, UNIX Philosophy  
+<br>
 
 #### Skills
 - Programming Languages   
   - C, Java, Python, Dart, JavaScript/TypeScript, etc  
 - Development   
-  - Web Front-end (Flutter, React, etc), Mobile App (Flutter, React Native, Kotlin)  
+  - Web (Flutter, React), Mobile app (Flutter, React Native, Kotlin)  
   - Server-side (Node.js, etc)  
 - IT Infrastructure Operation   
-  - Infrastructure as Code (IaC), CI/CD  
-  - Container Virtualization  
-  - AWS  
+  - Infrastructure as Code (IaC), CI/CD, Container Virtualization  
+<br>
 
 #### Extracurricular Activities  
-- ソニー株式会社 ネットワーク通信制御(R&D) インターンシップ  
+- [Internship] ソニー株式会社 ネットワーク通信制御(R&D)  
   February 2025  
-- 伊藤忠テクノソリューションズ株式会社 [スマホでグリッドプロジェクト(共同研究)](https://www.ctc-g.co.jp/company/release/20211006-01355.html) インターンシップ  
+- [Internship] 伊藤忠テクノソリューションズ株式会社 [スマホでグリッドプロジェクト(共同研究)](https://www.ctc-g.co.jp/company/release/20211006-01355.html)  
   July 2022 - March 2024  
-- Open Hack U 2020 ハッカソン  
+- [Hackathon] Open Hack U 2020  
   March 2020  
 
-#### Works
+<!-- #### Works
 - 静的サイトをIPFSへDeployするGitOps等の構築   
-  [研究室のサイトをIPFSで公開してみた | Network Computing Lab](https://blog.nclteu.org/posts/2023/04/17/about-this-site/)  
+  [研究室のサイトをIPFSで公開してみた | Network Computing Lab](https://blog.nclteu.org/posts/2023/04/17/about-this-site/)   -->
 
 ---
 

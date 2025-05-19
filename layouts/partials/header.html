@@ -1,0 +1,4 @@
+{{ partial "nav.html" . }}
+{{- if ne (.Resources.Match "custom.css") nil -}}
+<link rel="stylesheet" href="custom.css" />
+{{- end -}}
