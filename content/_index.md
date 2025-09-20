@@ -90,7 +90,7 @@ Qiita : <a href="https://qiita.com/soba_torinanban" rel="me">@soba_torinanban</a
 I am a Computer Science student. I belong [Advanced Network Laboratory](https://www.anl.is.ritsumei.ac.jp/). I'm interested in Distributed Computing and Networking.   
 
 鶏南蛮そば (ハンドルネーム) と申します.  
-コンピューターサイエンスを専攻していて, 分散コンピューティングやネットワーキングに興味があります.   
+コンピューターサイエンスを専攻していて, 分散コンピューティングとネットワーキングに興味があります.   
 所属研究室は[先進ネットワーク研究室](https://www.anl.is.ritsumei.ac.jp/)です．  
 <br>
 
@@ -108,8 +108,8 @@ I am a Computer Science student. I belong [Advanced Network Laboratory](https://
 #### Interests
 - Distributed Computing and Networking
   - In-Network Computing (Fog Computing, Multi-access Edge Computing(MEC), Edge Computing)  
+  - Segment Routing, Service Function Chaining, Network Virtualization   
   - ICN (Information Centric Networking), IPFS, P2P/Overlay Network  
-  - Network Virtualization, Service Function Chaining   
 - Operating System, Virtualization technology, UNIX Philosophy  
 <br>
 
@@ -145,6 +145,9 @@ short-lived; the most stable is astatine-210, with a half-life of 8.1 hours.
 A pure sample of myself has never been assembled, because any macroscopic
 specimen would be immediately vaporized by the heat of its own radioactivity. -->
 
+## Publications (refereed)
+- **Y. Niibe** and N. Kamiyama, "[Task Scheduling with Duplication Avoidance for ICN-based Autonomous In-Network Computing](https://doi.org/10.1109/LANMAN66415.2025.11154491)," 2025 IEEE 31st International Symposium on Local and Metropolitan Area Networks (LANMAN), Liile, France, 2025, pp. 1-2.  
+
 ## Publications (Non-refereed)
 - **新部 裕樹**, 金光 永煥: [ICNによるワークフロー処理における要求送信順序の一考察](https://ken.ieice.org/ken/paper/20230727cCvE/)，信学技報, vol. 123, no. 137, CS2023-35, pp. 61-63, 2023年7月.  
 - **新部 裕樹**, 上山 憲昭: [ICNを用いたネットワーク内処理における重複割当を回避したタスクスケジューリング](https://ken.ieice.org/ken/paper/202411123cGi/), 信学技報, vol. 124, no. 251, CCS2024-49, pp. 35-40, 2024年11月.  
@@ -153,3 +156,4 @@ specimen would be immediately vaporized by the heat of its own radioactivity. --
 
 ## Others  
 - [ICNを用いたネットワーク内処理における重複割当を回避したタスクスケジューリング](https://www.ieice.org/cs/icn/?page_id=2921), 第28回 ICN研究会, 2024年12月.  
+- [自律的なIn-Network Computingにおけるワークフローのスケジューリング](https://ken.ieice.org/ken/paper/202508302cN8/), 第6回 CQ学生ワークショップ, 2025年8月.  
