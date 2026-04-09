@@ -1,4 +1,15 @@
 p,  ul,  ol {
   margin-top: 0rem;
-  margin-bottom: 0rem;
+  margin-bottom: 0.2rem;
+}
+
+/* 1. ベースの幅を100%から少し減らし、常に左右の余白（マージン）を保証する */
+.container {
+  width: 96% !important; /* 90%〜95%程度がお勧めです */
+}
+
+@media(min-width: 55rem) {
+  .container {
+    max-width: 70rem;
+  }
 }

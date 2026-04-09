@@ -1,7 +1,7 @@
 ---
 # === Required fields  ===
 # Your name 
-name: "Soba Torinanban"
+name: "Yuki NIIBE"
 # Your profile picture
 imgname: 
   name: "img/main.jpg"
@@ -15,7 +15,7 @@ imgname:
 #     type: $IMAGE_TYPE
 # ...
 # A title (job title or "Researcher", "PhD student", etc.)
-personal_title: "Graduate student"
+personal_title: "Soba Torinanban"
 # An address (you can list multiple)
 address: 
   - 
@@ -89,16 +89,19 @@ Qiita : <a href="https://qiita.com/soba_torinanban" rel="me">@soba_torinanban</a
 ## Bio
 I am a Computer Science student. I belong [Advanced Network Laboratory](https://www.anl.is.ritsumei.ac.jp/). I'm interested in Distributed Computing and Networking.   
 
-鶏南蛮そば (ハンドルネーム) と申します.  
-コンピューターサイエンスを専攻していて, 分散コンピューティングとネットワーキングに興味があります.   
+コンピューターサイエンスを専攻しており, 分散コンピューティングとネットワーキングに興味があります.   
 所属研究室は[先進ネットワーク研究室](https://www.anl.is.ritsumei.ac.jp/)です．  
 <br>
 
 
 #### Education
-- Master's degree program in Engineering  
+- Doctoral student  
   Graduate School of Information Science and Engineering, Ritsumeikan University  
-  April 2024 -  Present  
+  April 2026 -  Present  
+  
+- Master in Engineering  
+  Graduate School of Information Science and Engineering, Ritsumeikan University  
+  April 2024 -  March 2026  
 
 - Bachelor of Computer Science  
   School of Computer Science, Tokyo University of Technology  
@@ -107,20 +110,20 @@ I am a Computer Science student. I belong [Advanced Network Laboratory](https://
 
 #### Interests
 - Distributed Computing and Networking
-  - In-Network Computing (Fog Computing, Multi-access Edge Computing(MEC), Edge Computing)  
+  - In-Network Computing, Fog Computing, Edge Computing, Multi-access Edge Computing(MEC)  
   - Segment Routing, Service Function Chaining, Network Virtualization   
   - ICN (Information Centric Networking), IPFS, P2P/Overlay Network  
 - Operating System, Virtualization technology, UNIX Philosophy  
 <br>
 
 #### Skills
-- Programming Languages   
+- Programming   
   - C, Java, Python, Dart, JavaScript/TypeScript, etc  
-- Development   
+- App development  
   - Web (Flutter, React), Mobile app (Flutter, React Native, Kotlin)  
-  - Server-side (Node.js, etc)  
+  - Server-side (Node.js, Go, etc)  
 - IT Infrastructure Operation   
-  - Infrastructure as Code (IaC), CI/CD, Container Virtualization  
+  - Infrastructure as Code (IaC), CI/CD, Container Virtualization, Linux server operation  
 <br>
 
 #### Extracurricular Activities  
@@ -149,10 +152,15 @@ specimen would be immediately vaporized by the heat of its own radioactivity. --
 - **Y. Niibe** and N. Kamiyama, "[Task Scheduling with Duplication Avoidance for ICN-based Autonomous In-Network Computing](https://doi.org/10.1109/LANMAN66415.2025.11154491)," 2025 IEEE 31st International Symposium on Local and Metropolitan Area Networks (LANMAN), Liile, France, 2025, pp. 1-2.  
 
 ## Publications (Non-refereed)
-- **新部 裕樹**, 金光 永煥: [ICNによるワークフロー処理における要求送信順序の一考察](https://ken.ieice.org/ken/paper/20230727cCvE/)，信学技報, vol. 123, no. 137, CS2023-35, pp. 61-63, 2023年7月.  
-- **新部 裕樹**, 上山 憲昭: [ICNを用いたネットワーク内処理における重複割当を回避したタスクスケジューリング](https://ken.ieice.org/ken/paper/202411123cGi/), 信学技報, vol. 124, no. 251, CCS2024-49, pp. 35-40, 2024年11月.  
-- **新部 裕樹**, 上山 憲昭: [自律的なネットワーク内処理におけるワークフローのスケジューリングに関する性能評価](https://ken.ieice.org/ken/paper/202503052cir/), 信学技報, vol. 124, no. 393, IA2024-96, pp. 188-193, 2025年3月.  
-- **新部 裕樹**, 上山 憲昭: ICNを用いたIn-Network Computingのタスクスケジューリング, 電子情報通信学会2025年総合大会講演論文集, B-6-30, 2025年3月.  
+- **新部 裕樹**, 上山 憲昭, ICNを用いた自律的なIn-Network Computingのタスク重複スケジューリング, 電子情報通信学会2026年総合大会講演論文集, B-6-11, 2026年3月.  
+- **新部 裕樹**, 上山 憲昭, [自律的In-Network Computingにおけるタスク粒度を考慮した重複スケジューリング](https://ken.ieice.org/ken/paper/20260304mcTC/), 信学技報, vol. 125, no. 385, NS2025-268, pp. 280-285, 2026年3月.
+- **新部 裕樹**, 上山 憲昭, [自律的ネットワーク内処理における実行時間短縮のためのタスク重複スケジューリング](https://ken.ieice.org/ken/paper/20251110HcoD/), 信学技報, vol. 125, no. 235, CCS2025-38, pp. 34-38, 2025 年 11 月.
+- **新部 裕樹**, 上山 憲昭, [自律的なネットワーク内処理における待ち時間の見積もりに基づくスケジュール判断](https://ken.ieice.org/ken/paper/20251010mcnO/), 信学技報, vol. 125, no. 198, NS2025-115, pp. 112-112, 2025 年 10 月.
+- **新部 裕樹**, 上山 憲昭, ICNを用いたIn-Network Computingのタスクスケジューリング, 電子情報通信学会2025年総合大会講演論文集, B-6-30, 2025年3月.  
+- **新部 裕樹**, 上山 憲昭, [自律的なネットワーク内処理におけるワークフローのスケジューリングに関する性能評価](https://ken.ieice.org/ken/paper/202503052cir/), 信学技報, vol. 124, no. 393, IA2024-96, pp. 188-193, 2025年3月.  
+- **新部 裕樹**, 上山 憲昭, [ICNを用いたネットワーク内処理における重複割当を回避したタスクスケジューリング](https://ken.ieice.org/ken/paper/202411123cGi/), 信学技報, vol. 124, no. 251, CCS2024-49, pp. 35-40, 2024年11月.  
+- **新部 裕樹**, 金光 永煥, [ICNによるワークフロー処理における要求送信順序の一考察](https://ken.ieice.org/ken/paper/20230727cCvE/)，信学技報, vol. 123, no. 137, CS2023-35, pp. 61-63, 2023年7月.  
+
 
 ## Others  
 - [ICNを用いたネットワーク内処理における重複割当を回避したタスクスケジューリング](https://www.ieice.org/cs/icn/?page_id=2921), 第28回 ICN研究会, 2024年12月.  
