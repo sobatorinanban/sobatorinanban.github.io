@@ -13,3 +13,35 @@ p,  ul,  ol {
     max-width: 70rem;
   }
 }
+
+/* content/custom.css に追記 */
+.outlined-box {
+  display: inline-flex;
+  align-items: center;
+  /* 行の高さを親要素に合わせ、段落の行間（line-height）を崩さない設定 */
+  line-height: 1.2;
+  vertical-align: baseline;
+  
+  /* 上下左右の余白と文字サイズ */
+  padding: 0.1em 0.45em;
+  font-size: 0.85em;
+  font-weight: 600;
+  margin: 0 0.25em;
+  
+  /* ショートコード側から渡される変数を適用 */
+  color: var(--box-color, #2563eb);
+  border: 1px solid var(--box-color, #2563eb);
+  border-radius: var(--box-radius, 4px);
+  
+  /* ほんのり背景色をのせる場合は以下（可読性向上） */
+  background-color: color-mix(in srgb, var(--box-color, #2563eb) 8%, transparent);
+  text-decoration: none;
+  transition: all 0.15s ease-in-out;
+}
+
+/* リンク付き（href指定時）のホバースタイル */
+a.outlined-box:hover {
+  background-color: var(--box-color, #2563eb);
+  color: #ffffff;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

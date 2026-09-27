@@ -110,7 +110,7 @@ I am a Computer Science student. I belong [Advanced Network Laboratory](https://
 
 #### Interests
 - Distributed Computing and Networking
-  - In-Network Computing, Fog Computing, Edge Computing, Multi-access Edge Computing(MEC)  
+  - Edge-to-Cloud Continuum, In-Network / Fog / Edge / Multi-access Edge Computing
   - Segment Routing, Service Function Chaining, Network Virtualization   
   - ICN (Information Centric Networking), IPFS, P2P/Overlay Network  
 - Operating System, Virtualization technology, UNIX Philosophy  
@@ -131,8 +131,6 @@ I am a Computer Science student. I belong [Advanced Network Laboratory](https://
   February 2025  
 - [Internship] 伊藤忠テクノソリューションズ株式会社 [スマホでグリッドプロジェクト(共同研究)](https://www.ctc-g.co.jp/company/release/20211006-01355.html)  
   July 2022 - March 2024  
-- [Hackathon] Open Hack U 2020  
-  March 2020  
 
 <!-- #### Works
 - 静的サイトをIPFSへDeployするGitOps等の構築   
@@ -163,5 +161,9 @@ specimen would be immediately vaporized by the heat of its own radioactivity. --
 
 
 ## Others  
-- [ICNを用いたネットワーク内処理における重複割当を回避したタスクスケジューリング](https://www.ieice.org/cs/icn/?page_id=2921), 第28回 ICN研究会, 2024年12月.  
+- [自律的ネットワーク内処理におけるタスク粒度を考慮した重複スケジューリング](), 第32回 ICN研究会, 2026年5月.{{< outlined color="#ef4444" >}}若手研究奨励賞{{< /outlined >}}  
 - [自律的なIn-Network Computingにおけるワークフローのスケジューリング](https://ken.ieice.org/ken/paper/202508302cN8/), 第6回 CQ学生ワークショップ, 2025年8月.  
+- [ICNを用いたネットワーク内処理における重複割当を回避したタスクスケジューリング](https://www.ieice.org/cs/icn/?page_id=2921), 第28回 ICN研究会, 2024年12月.  
+
+## Awards
+- 電子情報通信学会 通信ソサエティ 若手研究奨励賞, September 2026.  

@@ -1,0 +1,11 @@
+{{/* layouts/shortcodes/outlined.html */}}
+{{- $color := .Get "color" | default "#2563eb" -}}
+{{- $href := .Get "href" -}}
+{{- $radius := .Get "radius" | default "4px" -}}
+{{- $text := .Get "text" | default .Inner -}}
+
+{{- if $href -}}
+<a href="{{ $href }}" class="outlined-box" style="--box-color: {{ $color }}; --box-radius: {{ $radius }};" target="_blank" rel="noopener noreferrer">{{ $text | markdownify }}</a>
+{{- else -}}
+<span class="outlined-box" style="--box-color: {{ $color }}; --box-radius: {{ $radius }};">{{ $text | markdownify }}</span>
+{{- end -}}
